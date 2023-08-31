@@ -19,13 +19,9 @@ ZEE5 CLONE {netlify}
 
 <h1> Author ✍️</h1>
 
-1. Durgesh Soni
-2. Muskan Shaw
-3. Prayash
-4. Parimal
-5. Vaibhav
+Biswamit Mondal
 
-![OUR TEAM (1)](https://user-images.githubusercontent.com/81063456/155844823-4b3181ca-2be4-470c-bbc4-d4712a20a788.png)
+
 
 <h1>Home Page </h1>
 
@@ -65,5 +61,4 @@ ZEE5 CLONE {netlify}
 
 ![bg12](https://user-images.githubusercontent.com/81063456/155765977-dcf751fe-1ec1-4429-ae40-1128aa156d29.png)
 
-# Zee5-Clone
-# Zee5-Clone
+
